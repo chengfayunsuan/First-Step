@@ -1,2 +1,2 @@
 # First-Step
-第一个项目,存放我的c语言练习文件.持续更新中./First project, storing my C language practice files. Continuously updated.
+2026年9月26日,第一步,上传我的部分c语言练习项目,持续更新中.
